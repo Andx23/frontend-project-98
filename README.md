@@ -3,3 +3,7 @@
 
 ### Demonstration
 [![asciicast](https://asciinema.org/a/ARkWXqNSOiVr8QWo.svg)](https://asciinema.org/a/ARkWXqNSOiVr8QWo)
+
+### Demonstration — Brain Calc
+
+[![asciicast](https://asciinema.org/a/XzEjvHftjg6ZOBbR.svg)](https://asciinema.org/a/XzEjvHftjg6ZOBbR)
