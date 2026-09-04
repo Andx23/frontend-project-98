@@ -7,3 +7,7 @@
 ### Demonstration — Brain Calc
 
 [![asciicast](https://asciinema.org/a/XzEjvHftjg6ZOBbR.svg)](https://asciinema.org/a/XzEjvHftjg6ZOBbR)
+
+### Demonstration — Brain GCD
+
+[![asciicast](https://asciinema.org/a/VEMpqMslSt1pQMJx.svg)](https://asciinema.org/a/VEMpqMslSt1pQMJx)
